@@ -1,0 +1,15 @@
+C:\Users\Abner\Documents\GitHub\AEDs_CSharp_PUC-MG\bin\Debug\net7.0\AEDs_CSharp_PUC-MG.exe
+C:\Users\Abner\Documents\GitHub\AEDs_CSharp_PUC-MG\bin\Debug\net7.0\AEDs_CSharp_PUC-MG.deps.json
+C:\Users\Abner\Documents\GitHub\AEDs_CSharp_PUC-MG\bin\Debug\net7.0\AEDs_CSharp_PUC-MG.runtimeconfig.json
+C:\Users\Abner\Documents\GitHub\AEDs_CSharp_PUC-MG\bin\Debug\net7.0\AEDs_CSharp_PUC-MG.dll
+C:\Users\Abner\Documents\GitHub\AEDs_CSharp_PUC-MG\bin\Debug\net7.0\AEDs_CSharp_PUC-MG.pdb
+C:\Users\Abner\Documents\GitHub\AEDs_CSharp_PUC-MG\obj\Debug\net7.0\AEDs_CSharp_PUC-MG.csproj.AssemblyReference.cache
+C:\Users\Abner\Documents\GitHub\AEDs_CSharp_PUC-MG\obj\Debug\net7.0\AEDs_CSharp_PUC-MG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abner\Documents\GitHub\AEDs_CSharp_PUC-MG\obj\Debug\net7.0\AEDs_CSharp_PUC-MG.AssemblyInfoInputs.cache
+C:\Users\Abner\Documents\GitHub\AEDs_CSharp_PUC-MG\obj\Debug\net7.0\AEDs_CSharp_PUC-MG.AssemblyInfo.cs
+C:\Users\Abner\Documents\GitHub\AEDs_CSharp_PUC-MG\obj\Debug\net7.0\AEDs_CSharp_PUC-MG.csproj.CoreCompileInputs.cache
+C:\Users\Abner\Documents\GitHub\AEDs_CSharp_PUC-MG\obj\Debug\net7.0\AEDs_CSharp_PUC-MG.dll
+C:\Users\Abner\Documents\GitHub\AEDs_CSharp_PUC-MG\obj\Debug\net7.0\refint\AEDs_CSharp_PUC-MG.dll
+C:\Users\Abner\Documents\GitHub\AEDs_CSharp_PUC-MG\obj\Debug\net7.0\AEDs_CSharp_PUC-MG.pdb
+C:\Users\Abner\Documents\GitHub\AEDs_CSharp_PUC-MG\obj\Debug\net7.0\AEDs_CSharp_PUC-MG.genruntimeconfig.cache
+C:\Users\Abner\Documents\GitHub\AEDs_CSharp_PUC-MG\obj\Debug\net7.0\ref\AEDs_CSharp_PUC-MG.dll
