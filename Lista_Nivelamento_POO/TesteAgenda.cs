@@ -2,7 +2,7 @@ using System;
 
 namespace Lista_Nivelamento_POO
 {
-    public class Teste
+    public class TesteAgenda
     {
         /*
         public static void Main(String[] args)
