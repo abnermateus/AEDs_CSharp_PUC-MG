@@ -9,25 +9,28 @@ namespace Lista_Nivelamento_POO
         {
             string nome;
             int idade;
+            int codigoTurma;
+            int anoTurma;
             double peso;
             char sexo;
-
+            
             Console.Write("Digite o nome do aluno: ");
             nome = Console.ReadLine();
             Console.Write("Digite a idade do aluno: ");
             idade = int.Parse(Console.ReadLine());
+            Console.Write("Digite o código da turma do aluno: ");
+            codigoTurma = int.Parse(Console.ReadLine());
+            Console.Write("Digite o ano da turma do aluno: ");
+            anoTurma = int.Parse(Console.ReadLine());
             Console.Write("Digite o peso do aluno: ");
             peso = double.Parse(Console.ReadLine());
             Console.Write("Digite o sexo do aluno: ");
             sexo = char.Parse(Console.ReadLine());
+            
+            Turma turma = new Turma(codigoTurma, anoTurma);
+            Aluno aluno = new Aluno(nome, idade, turma, peso, sexo);
 
-            Aluno aluno = new Aluno(nome, idade, peso, sexo);
-
-            Console.WriteLine("\nNome: " + aluno.GetNome());
-            Console.WriteLine("Idade: " + aluno.GetIdade());
-            Console.WriteLine("Peso: " + aluno.GetPeso());
-            Console.WriteLine("Sexo: " + aluno.GetSexo());
-            Console.WriteLine("Formando: " + aluno.GetFormando());
+            Console.WriteLine(aluno.ToString());
 
             Console.Write("\nDigite novamente o nome do aluno: ");
             aluno.SetNome(Console.ReadLine());
@@ -46,11 +49,7 @@ namespace Lista_Nivelamento_POO
                 aluno.SetFormando(false);
             }
 
-            Console.WriteLine("\nNome: " + aluno.GetNome());
-            Console.WriteLine("Idade: " + aluno.GetIdade());
-            Console.WriteLine("Peso: " + aluno.GetPeso());
-            Console.WriteLine("Sexo: " + aluno.GetSexo());
-            Console.WriteLine("Formando: " + aluno.GetFormando());
+            Console.WriteLine(aluno.ToString());
         }
         */
     }

@@ -6,14 +6,16 @@ namespace Lista_Nivelamento_POO
     {
         private string nome;
         private int idade;
+        private Turma turma;
         private double peso;
         private bool formando;
         private char sexo;
 
-        public Aluno(string nome, int idade, double peso, char sexo)
+        public Aluno(string nome, int idade, Turma turma, double peso, char sexo)
         {
             this.nome = nome;
             this.idade = idade;
+            this.turma = turma;
             this.peso = peso;
             formando = false;
             this.sexo = sexo;
@@ -37,6 +39,16 @@ namespace Lista_Nivelamento_POO
         public void SetIdade(int idade)
         {
             this.idade = idade;
+        }
+
+        public Turma GetTurma()
+        {
+            return turma;
+        }
+
+        public void SetTurma(Turma turma)
+        {
+            this.turma = turma;
         }
 
         public double GetPeso()
@@ -67,6 +79,11 @@ namespace Lista_Nivelamento_POO
         public void SetSexo(char sexo)
         {
             this.sexo = sexo;
+        }
+
+        public string ToString()
+        {
+            return "\nNome: " + nome + "\nIdade: " + idade + " anos" + turma.ToString() + "\nPeso: "  + peso + " kg" + "\nEstá formando: " + formando + "\nSexo: " + sexo;
         }
     }
 }
