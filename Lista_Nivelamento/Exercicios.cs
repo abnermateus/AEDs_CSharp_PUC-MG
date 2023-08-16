@@ -4,6 +4,7 @@ namespace Lista_Nivelamento
 {
     public class Exercicios
     {
+        /*
         public static void Main(string[] args)
         {
             /*Ex1
@@ -141,7 +142,7 @@ namespace Lista_Nivelamento
                     Console.Write("{0} ", x[i]);
                 }
             }
-            */
         }
+        */
     }
 }
