@@ -13,25 +13,16 @@ namespace Lista_Nivelamento_POO
             this.mes = mes;
         }
 
-        public int GetDia()
+        public int Dia
         {
-            return dia;
+            get { return dia; }
+            set { dia = value; }
         }
 
-        public void SetDia(int dia)
+        public int Mes
         {
-            this.dia = dia;
+            get { return mes; }
+            set { mes = value; }
         }
-
-        public void SetMes(int mes)
-        {
-            this.mes = mes;
-        }
-
-        public int GetMes()
-        {
-            return mes;
-        }
-
     }
 }
