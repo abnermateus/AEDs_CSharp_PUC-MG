@@ -1,0 +1,27 @@
+﻿Nome do time: Atlético Mineiro
+Titulares: 
+Nome: Matheus Mendes - Número: 31 - Posição: goleiro
+Nome: Renzo Saravia - Número: 26 - Posição: lateral
+Nome: Bruno Fuchs - Número: 3 - Posição: zagueiro
+Nome: Igor Rabello - Número: 16 - Posição: zagueiro
+Nome: Guilherme Arana - Número: 13 - Posição: lateral
+Nome: Rodrigo Battaglia - Número: 21 - Posição: meia
+Nome: Matías Zaracho - Número: 15 - Posição: meia
+Nome: Igor Gomes - Número: 17 - Posição: meia
+Nome: Cristian Pavón - Número: 9 - Posição: atacante
+Nome: Paulinho - Número: 10 - Posição: atacante
+Nome: Hulk - Número: 7 - Posição: atacante
+
+Reservas: 
+Nome: Matheus Mendes - Número: 31 - Posição: goleiro
+Nome: Mariano - Número: 25 - Posição: lateral
+Nome: Réver - Número: 4 - Posição: zagueiro
+Nome: Jemerson - Número: 34 - Posição: zagueiro
+Nome: Maurício Lemos - Número: 28 - Posição: zagueiro
+Nome: Otávio - Número: 5 - Posição: meia
+Nome: Edenilson - Número: 8 - Posição: meia
+Nome: Patrick - Número: 49 - Posição: meia
+Nome: Hyoran - Número: 20 - Posição: meia
+Nome: Pedrinho - Número: 38 - Posição: meia
+Nome: Eduardo Vargas - Número: 11 - Posição: atacante
+Nome: Alan Kardec - Número: 14 - Posição: atacante
