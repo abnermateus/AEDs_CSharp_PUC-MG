@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Abner\\.nuget\\packages\\": {}
+    "C:\\Users\\igorl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Abner\\Documents\\GitHub\\AEDs_CSharp_PUC-MG\\AEDs_CSharp_PUC-MG.csproj",
+      "projectUniqueName": "c:\\Users\\igorl\\OneDrive\\Documentos\\GitHub\\AEDs_CSharp_PUC-MG\\AEDs_CSharp_PUC-MG.csproj",
       "projectName": "AEDs_CSharp_PUC-MG",
-      "projectPath": "c:\\Users\\Abner\\Documents\\GitHub\\AEDs_CSharp_PUC-MG\\AEDs_CSharp_PUC-MG.csproj",
-      "packagesPath": "C:\\Users\\Abner\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Abner\\Documents\\GitHub\\AEDs_CSharp_PUC-MG\\obj\\",
+      "projectPath": "c:\\Users\\igorl\\OneDrive\\Documentos\\GitHub\\AEDs_CSharp_PUC-MG\\AEDs_CSharp_PUC-MG.csproj",
+      "packagesPath": "C:\\Users\\igorl\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\igorl\\OneDrive\\Documentos\\GitHub\\AEDs_CSharp_PUC-MG\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Abner\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\igorl\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
