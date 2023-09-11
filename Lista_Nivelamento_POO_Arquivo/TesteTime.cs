@@ -4,6 +4,7 @@ namespace Lista_Nivelamento_POO_Arquivo
 {
     public class TesteTime
     {
+        /*
         public static void Main(String[] args)
         {
             Time time = new Time("Atlético Mineiro");
@@ -59,19 +60,20 @@ namespace Lista_Nivelamento_POO_Arquivo
             time.GerarArqTime("Lista_Nivelamento_POO_Arquivo//time.txt");
 
             time.SubstituirTitular("Everson", jogador12);
+            time.SubstituirReserva("Matheus Mendes", jogador1);
+            
+            time.ConsultarTitular("Matheus Mendes");
+            time.ConsultarReserva("Everson");
+
+            time.ExcluirTitular("Igor Gomes");
+            time.ExcluirReserva("Pedrinho");
+
+            time.ConsultarTitular("Igor Gomes");
+            time.ConsultarReserva("Pedrinho");
 
             Console.ReadKey();
             time.GerarArqTime("Lista_Nivelamento_POO_Arquivo//time.txt");
-            
-
-
-
-            
-            
-
-
-
-
         }
+        */
     }
 }

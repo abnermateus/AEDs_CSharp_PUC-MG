@@ -54,7 +54,7 @@ namespace Lista_Nivelamento_POO_Arquivo
             {
                 if (titulares[i].Nome == nome)
                 {
-                    titulares[i] = jogador;  
+                    titulares[i] = jogador;
                     return true;
                 }
             }
@@ -124,7 +124,6 @@ namespace Lista_Nivelamento_POO_Arquivo
                     {
                         reservas[j] = reservas[j + 1];
                     }
-
                     quantReservas--;
                 }
             }
@@ -137,14 +136,14 @@ namespace Lista_Nivelamento_POO_Arquivo
             arq.WriteLine("Nome do time: " + nome);
             arq.WriteLine("Titulares: ");
 
-            foreach(Jogador jogador in titulares)
+            foreach (Jogador jogador in titulares)
             {
                 arq.WriteLine("Nome: " + jogador.Nome + " - Número: " + jogador.Numero + " - Posição: " + jogador.Posicao);
             }
 
             arq.WriteLine("\nReservas: ");
 
-            foreach(Jogador jogador in reservas)
+            foreach (Jogador jogador in reservas)
             {
                 arq.WriteLine("Nome: " + jogador.Nome + " - Número: " + jogador.Numero + " - Posição: " + jogador.Posicao);
             }
