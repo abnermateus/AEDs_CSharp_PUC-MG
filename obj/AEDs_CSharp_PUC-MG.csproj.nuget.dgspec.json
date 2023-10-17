@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dtiDigital\\Documents\\GitHub\\AEDs_CSharp_PUC-MG\\AEDs_CSharp_PUC-MG.csproj": {}
+    "C:\\Users\\dtiDigital\\OneDrive - dti digital crafters\\Documentos\\GitHub\\AEDs_CSharp_PUC-MG\\AEDs_CSharp_PUC-MG.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dtiDigital\\Documents\\GitHub\\AEDs_CSharp_PUC-MG\\AEDs_CSharp_PUC-MG.csproj": {
+    "C:\\Users\\dtiDigital\\OneDrive - dti digital crafters\\Documentos\\GitHub\\AEDs_CSharp_PUC-MG\\AEDs_CSharp_PUC-MG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dtiDigital\\Documents\\GitHub\\AEDs_CSharp_PUC-MG\\AEDs_CSharp_PUC-MG.csproj",
+        "projectUniqueName": "C:\\Users\\dtiDigital\\OneDrive - dti digital crafters\\Documentos\\GitHub\\AEDs_CSharp_PUC-MG\\AEDs_CSharp_PUC-MG.csproj",
         "projectName": "AEDs_CSharp_PUC-MG",
-        "projectPath": "C:\\Users\\dtiDigital\\Documents\\GitHub\\AEDs_CSharp_PUC-MG\\AEDs_CSharp_PUC-MG.csproj",
+        "projectPath": "C:\\Users\\dtiDigital\\OneDrive - dti digital crafters\\Documentos\\GitHub\\AEDs_CSharp_PUC-MG\\AEDs_CSharp_PUC-MG.csproj",
         "packagesPath": "C:\\Users\\dtiDigital\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dtiDigital\\Documents\\GitHub\\AEDs_CSharp_PUC-MG\\obj\\",
+        "outputPath": "C:\\Users\\dtiDigital\\OneDrive - dti digital crafters\\Documentos\\GitHub\\AEDs_CSharp_PUC-MG\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dtiDigital\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
