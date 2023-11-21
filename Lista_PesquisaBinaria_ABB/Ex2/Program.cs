@@ -4,6 +4,7 @@ namespace AEDs_CSharp_PUC_MG.Lista_PesquisaBinaria_ABB.Ex2
 {
     public class Program
     {
+        /*
         public static void Main(String[] args)
         {
             ABB arvore = new ABB();
@@ -50,6 +51,7 @@ namespace AEDs_CSharp_PUC_MG.Lista_PesquisaBinaria_ABB.Ex2
                 }
             } while (opcao != 9);
         }
+        */
 
         public static void Menu()
         {
