@@ -4,6 +4,7 @@ namespace AEDs_CSharp_PUC_MG.Lista_Ordenacao2.Ex2
 {
     public class Exercicio2
     {
+        /*
         public static void Main(String[] args)
         {
             int[] vet = { 10, 1, 3, 20, 5, 6, 1, 4, 9, 2 };
@@ -12,6 +13,7 @@ namespace AEDs_CSharp_PUC_MG.Lista_Ordenacao2.Ex2
 
             QuicksortCrescente(vet, 0, vet.Length - 1);
         }
+        */
 
         public static void ImprimeVetor(int[] vet)
         {
