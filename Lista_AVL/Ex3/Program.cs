@@ -4,6 +4,7 @@ namespace AEDs_CSharp_PUC_MG.Lista_AVL.Ex3
 {
     public class Program
     {
+        /*
         public static void Main(String[] args)
         {
             ABB arvore = new ABB();
@@ -43,7 +44,8 @@ namespace AEDs_CSharp_PUC_MG.Lista_AVL.Ex3
                         break;
                 }
             } while (opcao != 7);
-        }
+    }
+    */
 
         public static void Menu()
         {
